@@ -1,0 +1,249 @@
+*{
+  width: auto;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  font-family:Helvetica,sans-serif;
+  box-sizing: border-box;
+}
+
+body{
+    width: 1280px;
+    height: auto;
+    margin: 0 auto;
+    background: linear-gradient(180deg,#ffff87,#b6ffa8);
+}
+
+.Banana-Kingdom{
+  width: 600px;
+  height: 60px;
+  margin-top: 100px;
+  margin-left: 40px;
+  font-family: DFLi-W2-WIN-BF;
+  font-size: 60px;
+  float: left;
+  color: #223f28;
+}
+
+.home{
+  width: 130px;
+  height: 60px;
+  margin-top: 100px;
+  margin-left: 20px;
+  background-color: #59a96a;
+  padding-top: 17px;
+  text-align: center;
+  font-size: 20px;
+  font-family: DFLi-W2-WIN-BF;
+  color: #223f28;
+  float: left;
+}
+
+.search{
+  width: 130px;
+  height: 60px;
+  margin-top: 100px;
+  margin-left: 20px;
+  background-color: white;
+  padding-top: 17px;
+  text-align: center;
+  font-size: 20px;
+  font-family: DFLi-W2-WIN-BF;
+  color: #223f28;
+  float: left;
+  border: 2px solid black;
+  border-radius: 25px;
+}
+
+.list{
+  width: 700px;
+  height: 50px;
+  margin-left: 290px;
+  margin-top: 50px;
+  background-color: #59a96a;
+  float: left;
+}
+
+.list-1{
+  width: 140px;
+  height: 50px;
+  float: left;
+  background-color: inherit;
+  color: #223f28;
+  font-family: DFLi-W2-WIN-BF;
+  font-size: 30px;
+  text-align: left;
+  padding-left: 10px;
+  padding-top: 6px;
+}
+
+.list-2{
+  width: 140px;
+  height: 50px;
+  float: left;
+  background-color: inherit;
+  color: #223f28;
+  font-family: DFLi-W2-WIN-BF;
+  font-size: 30px;
+  text-align: right;
+  padding-right: 10px;
+  padding-top: 6px;
+}
+
+.main-pic{
+  width: 700px;
+  height: 400px;
+  float: left;
+  margin-left: 290px;
+  margin-top: 50px;
+}
+
+.news{
+  width: 1100px;
+  height: 50px;
+  float: left;
+  font-family: DFLi-W2-WIN-BF;
+  font-size: 35px;
+  text-align: left;
+  color: #223f28;
+  padding-top: 5px;
+  padding-left: 5px;
+  margin-left: 90px;
+  margin-top: 50px;
+  background-color: #59a96a;
+}
+
+.main-l{
+  width: 525px;
+  height: 312px;
+  float: left;
+  margin-left: 90px;
+  margin-top: 50px;
+  border: 3px solid black;
+}
+
+.block-1{
+  width: 519px;
+  height: 34px;
+  float: left;
+  background-color: #91f29b;
+  font-family: DFLi-W2-WIN-BF;
+  font-size: 20px;
+  color: #223f28;
+  padding-top: 4px;
+}
+
+.block-2{
+  width: 519px;
+  height: 34px;
+  float: left;
+  background-color: #c1f4c8;
+  font-family: DFLi-W2-WIN-BF;
+  font-size: 20px;
+  color: #223f28;
+  padding-top: 4px;
+}
+
+.main-r{
+  width: 525px;
+  height: 312px;
+  float: left;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.sell-1{
+  width: 300px;
+  height: 500px;
+  float: left;
+  margin-left: 90px;
+  margin-top: 50px;
+  font-family: DFLi-W2-WIN-BF;
+  font-size: 20px;
+  color: #223f28;
+}
+
+.sell-w{
+  width: 300px;
+  height: 180px;
+  float: left;
+  padding-top: 10px;
+  font-family: DFLi-W2-WIN-BF;
+  font-size: 20px;
+  line-height: 30px;　
+  color: #223f28;
+}
+
+.sell-w h3{
+  margin-bottom: 10px;
+}
+
+.sell-a{
+  width: 300px;
+  height: 20px;
+  float: left;
+  font-family: DFLi-W2-WIN-BF;
+  font-size: 20px;
+  text-decoration: none;
+  text-align: right;
+}
+
+.sell-a a{
+  font-family: DFLi-W2-WIN-BF;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.sell-2{
+  width: 300px;
+  height: 500px;
+  float: left;
+  margin-left: 100px;
+  margin-top: 50px;
+  font-family: DFLi-W2-WIN-BF;
+  font-size: 20px;
+  color: #223f28;
+}
+
+.sell-pic{
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+
+footer{
+  width: 1280px;
+  height: 100px;
+  float: left;
+  margin-top: 100px;
+  background-color: #59a96a;
+}
+
+.footer-l{
+  width: 525px;
+  height: 80px;
+  float: left;
+  margin-top: 10px;
+  margin-left: 90px;
+  font-family: DFLi-W2-WIN-BF;
+  font-size: 20px;
+  color: #223f28;
+  background-color: inherit;
+  line-height: 30px;　
+}
+
+.icon-1{
+  width: 60px;
+  height: 60px;
+  float: left;
+  margin-left: 260px;
+  margin-top: 20px;
+}
+
+.icon-2{
+  width: 60px;
+  height: 60px;
+  float: left;
+  margin-left: 25px;
+  margin-top: 20px;
+}
